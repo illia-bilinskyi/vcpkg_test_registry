@@ -25,7 +25,7 @@
       "port-version": 1
     },
     "openglapp-dependencies-dev": {
-      "baseline": "2023-07-17",
+      "baseline": "0.0.1",
       "port-version": 0
     }
   }
