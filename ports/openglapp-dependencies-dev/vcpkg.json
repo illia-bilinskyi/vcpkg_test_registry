@@ -1,0 +1,16 @@
+{
+  "name": "openglapp-dependencies-dev",
+  "version-semver": "0.0.1",
+  "port-version": 0,
+  "description": "OpenGL application dependencies",
+  "license": "Zlib",
+  "dependencies": [
+    {
+      "name": "glad",
+      "features": [
+        "gl-api-33"
+      ]
+    },
+    "glfw3"
+  ]
+}
