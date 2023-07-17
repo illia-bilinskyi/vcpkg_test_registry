@@ -23,6 +23,10 @@
     "vcpkg-cmake-config": {
       "baseline": "2022-02-06",
       "port-version": 1
+    },
+    "openglapp-dependencies-dev": {
+      "baseline": "2023-07-17",
+      "port-version": 0
     }
   }
 }
